@@ -17,7 +17,7 @@ url4 = "https://www.google.com/"
 # start subprocesses command1, Visual Studio Code
 vsc = subprocess.Popen([command1])
 
-# Open chrome window, select ray profile and open pages
+# Open chrome window, select 1st profile and open pages
 # Url1
 chrome1 = subprocess.Popen([command3, "--profile-directory=Default", "--window-size=800,600", "--new-window", url1])
 # Url2
@@ -27,7 +27,7 @@ chrome1 = subprocess.Popen([command3, "--profile-directory=Default", "--window-s
 # Url4
 # #chrome1 = subprocess.Popen([command3, "--profile-directory=Default", "--window-size=800,600", url4])
 
-# Open chrome window, select raymond profile and open pages
+# Open chrome window, select 2nd profile and open pages
 # # Url1
 chrome2 = subprocess.Popen([command3, "--profile-directory=Profile 1", "--window-size=800,600", "--new-window", url1])
 # # Url2
