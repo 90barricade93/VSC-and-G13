@@ -43,6 +43,7 @@ then you can run the following command:
 ```bash
 python -m py2exe_gui
 ```
+follow the instructions and you will get a executable file in the dist folder.
 
 ## License
 
