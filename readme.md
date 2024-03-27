@@ -47,4 +47,4 @@ follow the instructions and you will get a executable file in the dist folder.
 
 ## License
 
-This code is licensed under the CC 3 license.
+This code is licensed under the &ensp; &ensp; &ensp; CC 3 license.
